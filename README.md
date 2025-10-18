@@ -1,0 +1,1 @@
+Codes written by me for the Object Oriented Programming lab in my course's third semester, in Java covering basic concepts like Classes, Interfaces, Method Overloading & Overriding etc. as well as programming principles such as Abstraction, Encapsulation, Inheritance and Polymorphism.
